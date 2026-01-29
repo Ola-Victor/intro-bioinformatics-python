@@ -9,3 +9,6 @@ This repository contains simple Python scripts I am using to learn how biologica
 - DNA nucleotide counting using Python
 - DNA nucleotide counting
 - GC content calculation
+
+- Reading DNA sequences from files
+- Computing nucleotide composition and GC content
