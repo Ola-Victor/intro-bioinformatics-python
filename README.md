@@ -58,6 +58,10 @@ Simple visual representations of genomic features
 Lightweight plots compatible with limited hardware.
 
 
+4. Fasta based analysis
+Add FASTA-based analysis optimized for low-resource environments
+
+
 Relevance to Africa & Low-Resource Settings
 
 Many African institutions face challenges such as:
