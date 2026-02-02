@@ -1,6 +1,7 @@
 Gene Expression Analysis Using Python
 
-📌 Overview
+📌 Overview:
+
 This project demonstrates basic bioinformatics data analysis using Python.  
 It involves reading gene expression data from a CSV file, performing statistical analysis, computing GC content, and visualizing gene expression levels.
 
@@ -21,6 +22,8 @@ It involves reading gene expression data from a CSV file, performing statistical
 
 🎯 Purpose
 This project was developed as part of my bioinformatics learning journey and aligns with my interest in molecular biology and computational analysis of biological data.
+
+This project also serves as a pilot learning module under the STEMIA Project & Research Assistance Scheme, aimed at building computational capacity among STEM students in Africa.
 
 📂 Files
 - `analyze_gene_expression.py` – main analysis script
