@@ -59,6 +59,7 @@ Lightweight plots compatible with limited hardware.
 
 
 4. Fasta based analysis
+   
 Add FASTA-based analysis optimized for low-resource environments
 
 
