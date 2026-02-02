@@ -14,3 +14,5 @@ This repository contains simple Python scripts I am using to learn how biologica
 - Computing nucleotide composition and GC content
 
 Handled file encoding issues when loading biological datasets
+
+Visualization of gene expression data using matplotlib
