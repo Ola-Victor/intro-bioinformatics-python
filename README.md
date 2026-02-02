@@ -1,18 +1,31 @@
-# Introductory Bioinformatics with Python
+Gene Expression Analysis Using Python
 
-I am a Biochemistry undergraduate exploring bioinformatics and computational biology.
+📌 Overview
+This project demonstrates basic bioinformatics data analysis using Python.  
+It involves reading gene expression data from a CSV file, performing statistical analysis, computing GC content, and visualizing gene expression levels.
 
-This repository contains simple Python scripts I am using to learn how biological data can be analyzed computationally.
+🧬 Features
+- File-based gene expression analysis
+- Calculation of average expression levels
+- GC content calculation from DNA sequences
+- Data visualization using matplotlib
 
-## Current Work
+🛠 Tools & Libraries
+- Python
+- pandas
+- matplotlib
 
-- DNA nucleotide counting using Python
-- DNA nucleotide counting
-- GC content calculation
+📊 Sample Output
+- Tabular gene expression data
+- Bar chart of gene expression levels
 
-- Reading DNA sequences from files
-- Computing nucleotide composition and GC content
+🎯 Purpose
+This project was developed as part of my bioinformatics learning journey and aligns with my interest in molecular biology and computational analysis of biological data.
 
-Handled file encoding issues when loading biological datasets
+📂 Files
+- `analyze_gene_expression.py` – main analysis script
+- `gene_expression.csv` – input dataset
 
-Visualization of gene expression data using matplotlib
+👤 Author
+*Olalekan Tajudeen*
+Biochemistry | Bioinformatics | STEMIA Project
