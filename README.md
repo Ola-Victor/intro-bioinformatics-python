@@ -33,25 +33,6 @@ Tools & Technologies
 NOTE: All scripts in this repository were developed and tested on Android using Pydroid 3, without access to high-performance computing resources.
 
 
-Repository Structure
-
-low_resource_bioinformatics/
-│
-├── data/
-│   └── sample_sequences.csv / fasta files
-│
-├── scripts/
-│   ├── gc_content.py
-│   ├── file_based_analysis.py
-│   └── visualization.py
-│
-├── visualizations/
-│   └── gc_content_plot.png
-│
-├── requirements.txt
-└── README.md
-
-
 Analyses Included
 
 1. GC Content Analysis:
